@@ -1,6 +1,6 @@
 # This is the code for our Rubik Cube Solver project: 
 
-In order to running this code, you need download the [SAM2](https://github.com/facebookresearch/sam2)
+In order to running this code, you need download the [SAM2](https://github.com/facebookresearch/sam2) directly and install [kociemba](https://pypi.org/project/kociemba/) package by using `$ pip install kociemba`
 
 And then you need put them under the [notebooks](https://github.com/facebookresearch/sam2/tree/main/notebooks) folder.
 
