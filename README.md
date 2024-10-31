@@ -1,4 +1,4 @@
-# This is the code for our project: Rubik’s Cube Solver: Integrating SAM and A Search for Automated Solution
+# This is the code for our Rubik Cube Solver project: 
 
 In order to running this code, you need download the [SAM2](https://github.com/facebookresearch/sam2)
 
